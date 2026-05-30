@@ -165,24 +165,28 @@ Interactive Power BI dashboards were created to support executive-level decision
 * Revenue by Age Group
 * Revenue by City Category
 * Customer Type Analysis
+<img width="1165" height="728" alt="image" src="https://github.com/user-attachments/assets/12ded292-e04a-4651-857b-82c0c0d64cf8" />
 
 ### 2. Customer Segmentation & Behavior
 
 * High-Value vs Low-Value Customers
 * Repeat Customer Analysis
 * Revenue Contribution by Segment
+<img width="1165" height="733" alt="image" src="https://github.com/user-attachments/assets/43a12b7a-f4f2-4978-bb00-b0a8098d1fee" />
 
 ### 3. Product & Category Intelligence
 
 * Top Products by Revenue
 * Category Performance
 * Premium Product Analysis
+<img width="1168" height="729" alt="image" src="https://github.com/user-attachments/assets/ace93dfe-30a2-49dc-9f49-7581c4dc2786" />
 
 ### 4. Strategy & Actionable Insights
 
 * Customer Insights
 * Product Insights
 * Revenue Growth Recommendations
+<img width="1210" height="724" alt="image" src="https://github.com/user-attachments/assets/2ab3301b-1250-41bf-ab0d-a9b551873aa9" />
 
 ---
 
